@@ -4774,3 +4774,5 @@ Gauresh Rathi
 - [Siddharth Malladi] (https://github.com/SidMalladi)
 - [Nick Paterson](https://github.com/NickPaterson)
 - [Denis AKPAGNONITE](https://github.com/denisakp)
+- [Claudio Delgado D'appollonio](https://github.com/innoktive)
+  
